@@ -5,6 +5,7 @@ SGD$1
 Serving you daily printed news since before newspapers went online.
 
 ## Local News
+
 * Stop it Spiderman!
 * Crazy monkeys in the house!
 
@@ -16,6 +17,7 @@ Serving you daily printed news since before newspapers went online.
 * Battle Of The Bands
 * Green House Gardening
 
+
 ## Weekly Weather
 Sunday:    Isloated tstorms. Mostly Cloudy. 24/30 Celcius.
 Monday:    Tstorms early. More clous than sun. 25/31 Celcius.
@@ -26,4 +28,4 @@ Friday:    Tstorms late. Partly sunny. 25/31 Celcius.
 Saturday:  A few tstorms. 26/31 Celcius.
 
 June 27, 2016
-25 cents
+$1.50
