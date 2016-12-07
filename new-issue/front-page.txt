@@ -5,16 +5,16 @@ June 27, 2016
 Serving you daily printed news since before newspapers went online.
 
 ## Local News
-* headline
+* Unprecedented Snow fall in Singapore
 * headline
 
 ## Sports
-* headline
-* headline
+* Man U beats Liverpool!
+* Feng Tianwei is World No.1!
 
 ## Culture
-* headline
-* headline
+* Lee Min Ho visits Singapore
+* Learn tea arts for free
 
 ## Weekly Weather
 Sunday:    Isloated tstorms. Mostly Cloudy. 24/30 Celcius.
@@ -26,4 +26,4 @@ Friday:    Tstorms late. Partly sunny. 25/31 Celcius.
 Saturday:  A few tstorms. 26/31 Celcius. 
 
 June 27, 2016
-25 cents
+$1.50
