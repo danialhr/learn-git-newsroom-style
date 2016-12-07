@@ -1,0 +1,68 @@
+*{
+  margin: 0,auto;
+  padding: 0,auto;
+  box-sizing: border-box;
+  font-family: 'Sanchez', serif;
+  background-color: #edefec;
+}
+
+.date_cost {
+  font-size: 10px;
+  padding-left: 5px;
+}
+
+h1 {
+  text-align: right;
+  font-size: 30px;
+}
+h2 {
+text-align: right;
+  font-size: 15px;
+}
+
+.headlines {
+}
+
+.col {
+display: inline-block;
+text-align: left;
+vertical-align: top;
+width:30%;
+}
+
+.category {
+  font-size: 50px;
+    color:white;
+    background-color: black;
+}
+
+
+a:link {
+  color:grey;
+  font-style: italic;
+text-decoration: none;
+}
+
+a:hover {
+  color:green;
+  font-style: italic;
+text-decoration: none;
+}
+
+a {
+margin: 0;
+}
+
+li {
+  display: inline;
+  list-style-type: none;
+      margin-right: 50px;
+}
+
+.news-roll {
+  display: inline-block;
+}
+
+article {
+  text-align: right;
+}
